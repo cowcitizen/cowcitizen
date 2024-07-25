@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @cowcitizen
+- 👋 Hi, I’m @cowcitizen (Jaebum Kim)
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning in high school - Virtually, I do not know anything.
+- 🌱 I’m a freshman. Still empty-headed, but progressing (albeit slowly)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
-- I'm currently studying for a university admission test. I will be more active when it is over (in a "preferable" way, that is)
+- 📫 How to reach me ...
+
+I'm still learning.
+Hopefully I'll keep learning new things until the last day of my life.
 
 <!---
 cowcitizen/cowcitizen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
