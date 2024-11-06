@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-I'm still learning.
+I'm still learning.  
 Hopefully I'll keep learning new things until the last day of my life.
 
 <!---
